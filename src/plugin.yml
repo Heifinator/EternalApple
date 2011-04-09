@@ -1,0 +1,9 @@
+name: EternalApple
+main: DarkPantherX.EternalApple.EternalApple
+version: 1.1
+commands:
+  eternalapple:
+    description: Gives you a an enternal Apple
+    usage: |
+           Incorrect usage of /cookie. Examples: Don't just gift it to others!
+           /eternalapple - gives you an Eternal Apple
